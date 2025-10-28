@@ -14,6 +14,8 @@ Os materiais utilizados durante o desenvolvimento deste prrojeto foram:
 |  Jumpers macho-fêmea |  6 | 
 
 # Hardware
+Três jumpers macho-macho são conectados do Arduino para a protoboard, passam por resistores de 330 ohms e, em seguida, são conectados aos LEDs por meio de jumpers macho-fêmea. Outro jumper macho-macho foi conectado do pino GND (do Arduino) à protoboard. Por fim, três jumpers macho-fêmea se conectam nas entradas negativas dos LEDs, fechando o circuito.
+
 <img src="Semaforo.jpeg">
 
 # Código
