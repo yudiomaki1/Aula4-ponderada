@@ -13,6 +13,9 @@ Os materiais utilizados durante o desenvolvimento deste prrojeto foram:
 |  Jumpers macho-macho | 4 | 
 |  Jumpers macho-fêmea |  6 | 
 
+# Hardware
+<img src="semaforo.jpeg">
+
 # Código
 
 ```C++
